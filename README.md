@@ -7,4 +7,4 @@ Notes lets you create, edit and delete your daily notes.
 - React Hooks (useState)
 
 
-![alt text](https://github.com/[fahadaleem]/[Note-Taking-React-App]/blob/[main]/Sample-image-1.png)
+![alt text](https://github.com/fahadaleem/Note-Taking-React-App/blob/main/Sample-image-1.png)
